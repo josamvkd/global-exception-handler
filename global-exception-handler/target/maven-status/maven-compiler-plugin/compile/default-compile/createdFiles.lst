@@ -1,0 +1,5 @@
+com\josamtechie\api\service\ProductService.class
+com\josamtechie\api\repository\ProductRepository.class
+com\josamtechie\api\controller\ProductController.class
+com\josamtechie\api\SpringBootCrudApplication.class
+com\josamtechie\api\model\Product.class
